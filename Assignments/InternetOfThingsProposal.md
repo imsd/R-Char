@@ -1,0 +1,4 @@
+InternetOfThingsProposal.md
+
+<p>last week we were trying think of a way that we can use some kind of information from the internet. 
+first thing i thought about was using twitter but im sure there are other things that could be used in its place. i remember back when i was in tennesee we had a sort of bulletin in a local paper to find out if any soldiers was aressted. what if you could pull public information from a public source of the nypd about aressts and use this in order to connect them with this break bail that our instructor showed us last week. another idea i would like to figure outsort of making a cuny announcement board that gives information regarding any and every announcement for each department or major.<p>

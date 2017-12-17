@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/nt02/Desktop/imsd/R-Char/R-Char/Project Unity/NewProject1/Assets/project1.unity
+  isLoaded: 1
+  isActive: 1
